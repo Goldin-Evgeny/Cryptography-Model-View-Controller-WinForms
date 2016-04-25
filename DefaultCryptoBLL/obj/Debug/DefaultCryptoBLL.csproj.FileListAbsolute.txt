@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\DefaultCryptoBLL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\DefaultCryptoBLL.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\Contracts.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\bin\Debug\Infrastructure.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\DefaultCryptoBLL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\DefaultCryptoBLL.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\Infrastructure.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\bin\Debug\Infrastructure.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.Properties.Resources.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefaultCryptoBLL\obj\Debug\DefaultCryptoBLL.pdb

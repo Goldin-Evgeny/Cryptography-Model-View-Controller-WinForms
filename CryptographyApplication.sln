@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{A4C47C2E-3E67-4941-9748-D325439F4D5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contracts", "Contracts", "{5832443B-5178-49E5-B233-F42811977B4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{57E3325C-4DF2-47AD-B1E8-F81B2822D179}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{66F9BA5C-837B-4825-AE41-CE86E82DF892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefalutCryptoDAL", "DefalutCryptoDAL\DefalutCryptoDAL.csproj", "{E1E96B58-90F1-4B3B-9780-7D83B009D911}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{092E933C-01BE-4D20-8F27-449EA96203CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultCryptoBLL", "DefaultCryptoBLL\DefaultCryptoBLL.csproj", "{ACD2F439-229E-4D14-AB1C-34643556B98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{4D253025-089A-4AC1-8A5A-E78E6268C17D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{1CD6F773-DC3E-4A49-942F-2C11CF06A5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoWindowsFormsApplication", "CryptoWindowsFormsApplication\CryptoWindowsFormsApplication.csproj", "{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApplication", "CryptoApplication\CryptoApplication.csproj", "{64E8E206-8B5F-4A12-9489-C698AA0754B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{41EF1F2B-62ED-466A-BFC4-275493281637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C47C2E-3E67-4941-9748-D325439F4D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C47C2E-3E67-4941-9748-D325439F4D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C47C2E-3E67-4941-9748-D325439F4D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C47C2E-3E67-4941-9748-D325439F4D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E96B58-90F1-4B3B-9780-7D83B009D911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E96B58-90F1-4B3B-9780-7D83B009D911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E96B58-90F1-4B3B-9780-7D83B009D911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E96B58-90F1-4B3B-9780-7D83B009D911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD2F439-229E-4D14-AB1C-34643556B98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD2F439-229E-4D14-AB1C-34643556B98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD2F439-229E-4D14-AB1C-34643556B98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD2F439-229E-4D14-AB1C-34643556B98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D253025-089A-4AC1-8A5A-E78E6268C17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D253025-089A-4AC1-8A5A-E78E6268C17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D253025-089A-4AC1-8A5A-E78E6268C17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D253025-089A-4AC1-8A5A-E78E6268C17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E8E206-8B5F-4A12-9489-C698AA0754B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E8E206-8B5F-4A12-9489-C698AA0754B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E8E206-8B5F-4A12-9489-C698AA0754B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E8E206-8B5F-4A12-9489-C698AA0754B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4C47C2E-3E67-4941-9748-D325439F4D5D} = {5832443B-5178-49E5-B233-F42811977B4B}
+		{E1E96B58-90F1-4B3B-9780-7D83B009D911} = {66F9BA5C-837B-4825-AE41-CE86E82DF892}
+		{ACD2F439-229E-4D14-AB1C-34643556B98E} = {092E933C-01BE-4D20-8F27-449EA96203CC}
+		{4D253025-089A-4AC1-8A5A-E78E6268C17D} = {41EF1F2B-62ED-466A-BFC4-275493281637}
+		{7F3A34B1-EA5D-4C47-BB12-02D6B4CF85C2} = {1CD6F773-DC3E-4A49-942F-2C11CF06A5A7}
+		{64E8E206-8B5F-4A12-9489-C698AA0754B4} = {57E3325C-4DF2-47AD-B1E8-F81B2822D179}
+	EndGlobalSection
+EndGlobal

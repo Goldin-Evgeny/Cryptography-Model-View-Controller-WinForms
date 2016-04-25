@@ -1,0 +1,40 @@
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\Contracts.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\Infrastructure.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.dll.config
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.DecryptionPreparation.DecryptionPreparationView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.EncryptionPreparation.EncryptionPreparationView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.ProcessDone.ProcessDoneView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Browse.BrowseView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.NextPrevious.NextPreviousView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Cryptography.CryptographyView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.CryptographyOption.CryptographyOptionView.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.ProcessProgress.ProcessProgressView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Browse.BrowseView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Cryptography.CryptographyView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.DecryptionPreparation.DecryptionPreparationView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.CryptographyOption.CryptographyOptionView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.EncryptionPreparation.EncryptionPreparationView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.NextPrevious.NextPreviousView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.ProcessDone.ProcessDoneView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.ProcessProgress.ProcessProgressView.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.Properties.Resources.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\obj\Debug\CryptoWindowsFormsApplication.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.dll.config
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\CryptoWindowsFormsApplication.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\Infrastructure.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoWindowsFormsApplication\bin\Debug\Infrastructure.pdb

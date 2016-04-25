@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\DefalutCryptoDAL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\DefalutCryptoDAL.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\Contracts.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\bin\Debug\Infrastructure.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\DefalutCryptoDAL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\DefalutCryptoDAL.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\Infrastructure.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\bin\Debug\Infrastructure.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\DefalutCryptoDAL\obj\Debug\DefalutCryptoDAL.pdb

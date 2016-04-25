@@ -1,0 +1,39 @@
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\CryptoApplication.exe.config
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\CryptoApplication.exe
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\CryptoApplication.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\DefalutCryptoDAL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\DefaultCryptoBLL.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\Contracts.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\CryptoWindowsFormsApplication.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\DefalutCryptoDAL.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\DefaultCryptoBLL.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\Infrastructure.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\obj\Debug\CryptoApplication.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\obj\Debug\CryptoApplication.exe
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\obj\Debug\CryptoApplication.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\bin\Debug\CryptoWindowsFormsApplication.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\obj\Debug\CryptoApplication.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\Contracts\CryptoApplication\obj\Debug\CryptoApplication.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoApplication.exe.config
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.exe
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoApplication.exe
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoApplication.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoWindowsFormsApplication.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\DefalutCryptoDAL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\DefaultCryptoBLL.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\Infrastructure.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoWindowsFormsApplication.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\DefalutCryptoDAL.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\DefaultCryptoBLL.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\bin\Debug\Infrastructure.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.MainForm.resources
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.csproj.GenerateResource.Cache
+C:\Users\Yevgeny\Desktop\Contractsaeww\Contractsaeww\Contracts\CryptoApplication\bin\Debug\CryptoApplication.exe.config
+C:\Users\Yevgeny\Desktop\Contractsaeww\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.exe
+C:\Users\Yevgeny\Desktop\Contractsaeww\Contractsaeww\Contracts\CryptoApplication\obj\Debug\CryptoApplication.pdb

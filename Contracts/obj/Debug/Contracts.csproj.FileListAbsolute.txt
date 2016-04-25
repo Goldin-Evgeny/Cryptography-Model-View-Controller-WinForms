@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\bin\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\bin\Debug\Contracts.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\bin\Debug\Infrastructure.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\bin\Debug\Infrastructure.pdb
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\obj\Debug\Contracts.dll
+D:\Documents\Visual Studio 2015\Projects\Contracts\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\bin\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\bin\Debug\Infrastructure.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\bin\Debug\Infrastructure.pdb
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\obj\Debug\Contracts.dll
+C:\Users\Computer\Desktop\Contractsaeww\Contracts\Contracts\obj\Debug\Contracts.pdb
